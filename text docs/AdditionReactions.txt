@@ -1,0 +1,45 @@
+Addition => undergone by compounds with only double or triple bond. [=/≡ bonds]
+
+H     H
+ \   /
+  C=C
+ /   \
+H     H
+
+***pi bonds are succeptable to breaking***
+
+The double bond breaks and the bromine is attached on either sides.
+
+Br    Br
+ \   /
+  C=C
+ /   \
+H     H
+
+OBSERVATION => Red colour of Br2CCl4 gets discharged
+
+MECHANISM
+=========
+
+CH2=CH2
+
+Bromine Structure
+=================
+  δ+   δ-
+Br   Br
+
+Due to presence of the pi bond a partial polarity is induced in Br => partial polar molecule 
+            δ+   δ-
+          Br   Br               -
+CH2=CH2 ----------> CH2-CH2 + Br
+                     \  /
+                      Br
+
+  Br
+  |
+  CH2-CH2 => Syn and Anti => Isomerism
+       |
+       Br
+                                                                 +
+Br-CH2-CH2-Br => 1,2 dibromoetane => Electrophilic addition => Br Participates in the reaction first (mainly) therefore this type of reaction is called electrophilic addition => Anti addition
+
